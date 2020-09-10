@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(110, 200, 252);
+}
+#header{
+    text-align: right;
+    padding: 20px;
+    background-color: white;
+}
+#form{
+    width: 300px;
+    margin: auto;
+    padding: 30px 25px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px;
+}
